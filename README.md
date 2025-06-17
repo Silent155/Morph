@@ -25,7 +25,7 @@ pip install PySide6 numpy scipy
 ```
 ---
 
-##🚀 How to Use
+##**🚀 How to Use**
 Run the script:
 
 bash
@@ -45,7 +45,7 @@ Click 儲存與下一張 to save and go to the next image
 
 Click 跳過錯圖 to move the current image to bad data/ folder
 
-##📁 Output Structure
+##**📁 Output Structure##
 When saving, a folder named like APL_Labels_30/ will be created:
 
 複製
