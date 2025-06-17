@@ -29,7 +29,8 @@ pip install PySide6 numpy scipy
 
 1. Run the script:
 
-  python label_ver3.py
+   ```bash
+   python label_ver3.py
 
 2. Load a folder of .jpg images
 
