@@ -25,17 +25,19 @@ pip install PySide6 numpy scipy
 
 ---
 
-## 🚀 How to Use
+🚀 How to Use
+Run the script:
 
-1. Run the script:
-
-```bash
+bash
+複製
+編輯
 python label_ver3.py
 Load a folder of .jpg images
 
 Choose the number of lines to annotate (e.g. 10 or 30)
 
-Click on the image to mark points (2 points = 1 line)
+Click on the image to mark points
+👉 2 points = 1 line
 
 Once done:
 
@@ -54,4 +56,5 @@ APL_Labels_30/
 ├── image01.mat
 └── ...
 Each .csv and .mat file contains the sorted 2N × 2 matrix of keypoints.
+
 Points are ordered by Y-axis (top to bottom), and left-right positions are corrected automatically.
