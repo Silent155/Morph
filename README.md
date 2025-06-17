@@ -29,8 +29,8 @@ pip install PySide6 numpy scipy
 
 1. Run the script:
 
-   ```bash
-   python label_ver3.py
+```bash
+python label_ver3.py
 Load a folder of .jpg images
 
 Choose the number of lines to annotate (e.g. 10 or 30)
