@@ -22,7 +22,7 @@ Built with `PySide6`, supports saving annotations to `.csv` and `.mat` format.
 
 ```bash
 pip install PySide6 numpy scipy
-
+```
 ---
 
 🚀 How to Use
