@@ -46,6 +46,7 @@ pip install PySide6 numpy scipy
 ---
 
 ## 📁 Output Structure
+
 When saving, a folder named like APL_Labels_30/ will be created:
 
 APL_Labels_30/
